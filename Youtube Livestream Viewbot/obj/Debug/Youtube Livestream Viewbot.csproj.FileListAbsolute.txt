@@ -1,0 +1,10 @@
+C:\Users\elias\source\repos\Youtube Livestream Viewbot\Youtube Livestream Viewbot\bin\Debug\Youtube Livestream Viewbot.exe.config
+C:\Users\elias\source\repos\Youtube Livestream Viewbot\Youtube Livestream Viewbot\bin\Debug\Youtube Livestream Viewbot.exe
+C:\Users\elias\source\repos\Youtube Livestream Viewbot\Youtube Livestream Viewbot\bin\Debug\Youtube Livestream Viewbot.pdb
+C:\Users\elias\source\repos\Youtube Livestream Viewbot\Youtube Livestream Viewbot\bin\Debug\Leaf.xNet.dll
+C:\Users\elias\source\repos\Youtube Livestream Viewbot\Youtube Livestream Viewbot\bin\Debug\Leaf.xNet.xml
+C:\Users\elias\source\repos\Youtube Livestream Viewbot\Youtube Livestream Viewbot\obj\Debug\Youtube Livestream Viewbot.csprojAssemblyReference.cache
+C:\Users\elias\source\repos\Youtube Livestream Viewbot\Youtube Livestream Viewbot\obj\Debug\Youtube Livestream Viewbot.csproj.CoreCompileInputs.cache
+C:\Users\elias\source\repos\Youtube Livestream Viewbot\Youtube Livestream Viewbot\obj\Debug\Youtube Livestream Viewbot.csproj.CopyComplete
+C:\Users\elias\source\repos\Youtube Livestream Viewbot\Youtube Livestream Viewbot\obj\Debug\Youtube Livestream Viewbot.exe
+C:\Users\elias\source\repos\Youtube Livestream Viewbot\Youtube Livestream Viewbot\obj\Debug\Youtube Livestream Viewbot.pdb
